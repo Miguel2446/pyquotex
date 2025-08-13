@@ -24,7 +24,7 @@ from pyquotex.utils.processor import (
 from pyquotex.config import credentials
 from pyquotex.stable_api import Quotex
 
-__author__ = "Cleiton Leonel Creton"
+__author__ = "Deividi Miguel da Costa"
 __version__ = "1.0.3"
 
 USER_AGENT = "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0"
