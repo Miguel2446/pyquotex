@@ -2,12 +2,12 @@ import sys
 import locale
 import pyfiglet
 
-__author__ = "Cleiton Leonel Creton"
+__author__ = "Deividi Miguel"
 __version__ = "1.0.3"
 
 __message__ = f"""
 Use com moderação, pois gerenciamento é tudo!
-suporte: cleiton.leonel@gmail.com ou +55 (27) 9 9577-2291
+suporte: Dmiguel2015@gmail.com, 11 977566556
 """
 
 LANGUAGE_MESSAGES = {
@@ -52,7 +52,7 @@ def display_banner():
     banner = f"""{ascii_art}
     Author: {__author__} | Version: {__version__}
     Use with moderation, because management is everything!
-    Support: cleiton.leonel@gmail.com or +55 (27) 9 9577-2291
+    Support: Dmiguel2015@gmail.com or +55 (11) 9 97756-6546
 
     {ad_message}
 
